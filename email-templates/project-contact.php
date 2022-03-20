@@ -59,6 +59,5 @@ $headers .= 'From: <'.$from.'>' . "\r\n";
    	 //Fail Message
       echo "The message could not been sent!";
    }
-
 }
 ?>
